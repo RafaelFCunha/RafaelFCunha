@@ -5,7 +5,7 @@
 
 - 📫 Entre em contato comigo via **rfcunha7@gmail.com**
 
-- 📄 Você pode ver meu currículo para mais informações [linkedin.com/in/rafael-fernandes-cunha-9797b3208](linkedin.com/in/rafael-fernandes-cunha-9797b3208)
+- 📄 Você pode ver meu currículo para mais informações [https://www.linkedin.com/in/rafael-fernandes-cunha-9797b3208/](https://www.linkedin.com/in/rafael-fernandes-cunha-9797b3208/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
