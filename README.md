@@ -5,8 +5,6 @@
 
 - 📫 Entre em contato comigo via **rfcunha7@gmail.com**
 
-- 📄 Você pode ver meu currículo para mais informações [https://www.linkedin.com/in/rafael-fernandes-cunha-9797b3208/](https://www.linkedin.com/in/rafael-fernandes-cunha-9797b3208/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rafael-fernandes-cunha-9797b3208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/rafael-fernandes-cunha-9797b3208" height="30" width="40" /></a>
